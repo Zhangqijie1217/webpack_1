@@ -1,0 +1,29 @@
+@font-face {
+  font-family: "iconfont";
+  src: url('./font/iconfont.eot?t=1570503248082');
+  /* IE9 */
+  src: url('./font/iconfont.eot?t=1570503248082#iefix') format('embedded-opentype'),
+    /* IE6-IE8 */
+    url('data:application/x-font-woff2;charset=utf-8;base64,d09GMgABAAAAAAOkAAsAAAAAB5QAAANXAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHEIGVgCDBgqCdIJhATYCJAMMCwgABCAFhG0HPhuvBlFUTeJkHyO3iBG1PMN/GPVR////Ew//f99vn3vvn6YmK5pHm5dHrSiMRsA0KqIASziQWeDN6+YXvpjm22auSEj5tKUP0hMxRe58WGS7zf64d9o8/2CtZ1kucyyPugDjgAIba9LYQgUSkDeMXdASFxNom5GMOq9t7gZuCrNVIG4FTAO3jEppyA5NoV4xsIhXzprpOb0AvATfj3+wHW4ktczseHFTw4HyL88v3/xUzTHsobCnM4ANI2MVUIjrStMVxyi0ylFbFTk1J9cVIU3lrSoCliapb/SPl4g6M7MLFmE48eXpUAm+fIdIIIM6iDwA3iB+okuWexH+3mHBHrSH3qvbiNFnIFqPhqjdqmHaMtVEa5MZXcbn3nf61GUhvZt2HV8e3LNx5xEpVf3Qtsix80bNwa1hGw54cP2VsOHwrePLch/pqfd69yVsv55EHzwZpqr1aq+m9V1/H8vs0AzfWg9ohR1xM2bHdsS0UcdjW+M7Zs/ogG0xx6mqu8LOmFbqBGyNa589szO2Odq5Kqp6dibmcudQq7PmcPzs3NXU3KxM3SbRIYq3Vs/PCc1q87u2b+sL8Bz3zN/oBphq/mSXDqc/Fdu8QkezZzn9SC8Z83G5qKnmc/ToTh435uotA8V/sGfFrV99W8l3xb6137e8E98qh//PbFXtSGpKYGcbp3BDYDsYB1DdyBZDyaiu57uOS3/qN97P9swZ8y3+7dYp4PNeZHvgrK4X0F2jeR/m4L+wOxYUTQqLi8JyWIYlO7xHQwIyuNjfyIUx34ZLJjtnEpomE0gapiFrmkUX/CrUdOxCXdMRtK2oG94xTuYoSgvLFgIIQ6ch6fuAbOgluuC/Qs2Un1A3DEdou4zACTvmQ/CokhFNEAeZqVBgJStva4lHmN2JsN1My2luQOhFsiJ4YUZqej5ah6xInqKLMglnEsJDXpYssBYsh8xmCdpkaQKxJNVEiK0wLY2vOlEqK1mAhzMyhEYgHIgxFSRgSax4rzThUfh8JwSzM6PJDXlV2l6ITCFUDmVIld4BXSeydsq7lWMUk2CZCIIH8WQSC6gWGBCzFZJAtup6ExAWkco0IGBTKA0V47uKUpeXWN5vGbSZu+VIkaNoPQpWzAnYLrkR2ooVEy0BAAA=') format('woff2'),
+    url('./font/iconfont.woff?t=1570503248082') format('woff'),
+    url('./font/iconfont.ttf?t=1570503248082') format('truetype'),
+    /* chrome, firefox, opera, Safari, Android, iOS 4.2+ */
+    url('./font/iconfont.svg?t=1570503248082#iconfont') format('svg');
+  /* iOS 4.1- */
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.iconpingdiguo:before {
+  content: "\e60b";
+}
+
+.icontangshao:before {
+  content: "\e60f";
+}
